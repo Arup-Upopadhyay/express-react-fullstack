@@ -3,6 +3,8 @@ import UserList from './js/functionalComponents/UserList';
 
 export default function App () {
     return (
-        <UserList />
+        <div>
+            <UserList />
+         </div>
     )    
 }
